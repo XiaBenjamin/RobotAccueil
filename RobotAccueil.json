@@ -1,0 +1,71 @@
+{
+  "salles": [
+    {
+      "name": "Espace Projets Scientifiques et Cap Projet",
+      "location":""
+    },
+    {
+      "name": "Labo",
+      "location":""
+    },
+    {
+      "name": "Stands Pédagogiques",
+      "location":""
+    },
+    {
+      "name": "Espace Conférences",
+      "location":""
+    },
+    {
+      "name": "Projets Formation Humaine",
+      "location":""
+    },
+    {
+      "name": "Salle E01",
+      "location":""
+    },
+    {
+      "name": "Salle E06",
+      "location":""
+    },
+    {
+      "name": "BDS",
+      "location":""
+    },
+    {
+      "name": "BDA",
+      "location":""
+    },
+    {
+      "name": "BDJ",
+      "location":""
+    },
+    {
+      "name": "KPS",
+      "location":""
+    },
+    {
+      "name": "KPS VR",
+      "location":""
+    },
+    {
+      "name": "AGGE",
+      "location":""
+    },
+    {
+      "name": "International",
+      "location":""
+    },
+    {
+      "name": "BDE",
+      "location":""
+    },
+    {
+      "name": "REC",
+      "location":""
+    }],
+  "Activités": [
+    {
+      
+    }]
+}
